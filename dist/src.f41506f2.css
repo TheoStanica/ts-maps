@@ -1,0 +1,39 @@
+/* * {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+} */
+body {
+  min-height: 100vh;
+  display: flex;
+  padding: 5px;
+}
+#map {
+  height: 80vh;
+}
+.mapSelect {
+  width: 80vw;
+}
+.locationList {
+  /* height: 100vh; */
+  width: 20vw;
+  padding: 14px;
+}
+.locationList h1 {
+  text-align: center;
+}
+.locationList li {
+  cursor: pointer;
+}
+ul {
+  list-style: none;
+}
+.addLocation {
+  padding-bottom: 15px;
+}
+.addLocation button {
+  margin-top: 10px;
+}
+
+
+/*# sourceMappingURL=/src.f41506f2.css.map */
